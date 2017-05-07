@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 tmp/*
-output/*
 doc/mem*
 *.RData
 *.csv
