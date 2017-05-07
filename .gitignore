@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+tmp/*
+output/*
+doc/mem*
+*.RData
+*.csv
+tmp/*
+inputs/datosJon
+inputs/subset
+inputs/raw/*
